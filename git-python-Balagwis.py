@@ -1,3 +1,7 @@
 print("Name: Balagwis, John Denver R.")
 print("Address: Brgy. Bagong Silang, Santa Cruz, Marinduque")
 print("Birthday: December 10, 1997")
+print("College: Marinduque State College")
+print("Course: Bachelor of Science in Information Technology")
+print("Year: 2nd Year")
+print("Section: 2F")
